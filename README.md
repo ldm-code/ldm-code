@@ -1,16 +1,13 @@
 ## Hi there 👋
+* Me chamo Leonardo, Tenho 18 anos e estou estudando analise e desenvolvimento de sistemas na faculdade Ideau de Passo Fundo
+---
+# Onde eu moro
+* Espumoso RS
+---
+# Minha linguagem favorita
+* Python
+---
+# Skills
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!--
-**LeozimIdeau/LeozimIdeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
