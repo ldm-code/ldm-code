@@ -2,7 +2,7 @@
 
 
 
-## OLA 👋 # <text id="snake" x="0" y="55" font-size="24">🐍</text>
+## OLA 👋  <text id="snake" x="0" y="55" font-size="24">🐍</text>
 
 
 
