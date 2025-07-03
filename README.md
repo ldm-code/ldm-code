@@ -1,6 +1,9 @@
-## ola 👋
+# <text id="dragon" x="0" y="55" font-size="24">🐉</text>
 
-<text id="dragon" x="0" y="55" font-size="24">🐉</text>* Me chamo Leonardo, Tenho 18 anos e estou estudando analise e desenvolvimento de sistemas na faculdade Ideau de Passo Fundo
+
+## OLA 👋
+
+<text id="dragon" x="0" y="55" font-size="24">🐉</text>* Me chamo Leonardo, Tenho 18 anos e estou estudando Análise e Desenvolvimento de Sistemas na faculdade Ideau de Passo Fundo
 <text id="dragon" x="0" y="55" font-size="24">🐉</text>
 ---
 # Onde eu moro
@@ -29,6 +32,8 @@
     xlink:href="#dragon" 
     attributeName="x" 
     from="0" 
+
+    
     to="570" 
     dur="10s" 
     repeatCount="indefinite" />
