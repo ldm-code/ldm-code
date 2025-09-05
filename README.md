@@ -2,8 +2,10 @@
 
 
 
-## OLA 👋  <text id="snake" x="0" y="55" font-size="24">🐍</text> #
+# OLA 👋  <text id="snake" x="0" y="55" font-size="24">🐍</text> #
 
+---
+## Sobre mim:   <text id="snake" x="0" y="55" font-size="24">🐍</text> #
 
 
 <text id="dragon" x="0" y="55" font-size="24">🐉</text>* Me chamo Leonardo, Tenho 18 anos e estou estudando Análise e Desenvolvimento de Sistemas na faculdade Ideau de Passo Fundo
@@ -31,13 +33,14 @@
 - whatsapp:+55 54 99244-8827.
 - email:demoraesleonardo327@gmail.com.
 ---
-## obrigado pela atençao.
-
+## obrigado pela atençao. <text id="snake" x="0" y="55" font-size="48" fill="red" >  <text id="dragon" x="0" y="55" font-size="24">🐉</text>
+🐍
+ <text id="dragon" x="0" y="55" font-size="24">🐉</text>
 <text id="snake" x="0" y="55" font-size="48" fill="red" >
 </text>
-<text id="snake" x="0" y="55" font-size="48" fill="red" >
+ <text id="snake" x="0" y="55" font-size="48" fill="red" >
 🐍
-  <text id="dragon" x="0" y="55" font-size="24">🐉</text>
+ <text id="dragon" x="0" y="55" font-size="24">🐉</text>
 
 
 
