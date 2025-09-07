@@ -1,13 +1,8 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "*/1 * * * *"
-  workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@master
         with:
