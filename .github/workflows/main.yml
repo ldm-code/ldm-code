@@ -14,7 +14,6 @@ jobs:
         with:
           github_user_name: ldm-code
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          color_snake: ADD8E6
           outputs: github-snake.svg
 
       - name: Commit SVG no branch output
