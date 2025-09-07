@@ -40,7 +40,8 @@
  <text id="snake" x="0" y="55" font-size="48" fill="red" >
 🐍
  <text id="dragon" x="0" y="55" font-size="24">🐉</text>
- ![GitHub Snake animation](https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=ldm-code)
+![Snake animation](https://github.com/ldm-code/ldm-code/blob/output/dist/github-contribution-grid-snake.svg)
+
 
 
 
