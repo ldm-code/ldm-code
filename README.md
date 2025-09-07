@@ -38,7 +38,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ldm-code&show_icons=true)
 
-![Snake animation](https://github.com/ldm-code/ldm-code/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ldm-code/ldm-code/blob/output/github-snake.svg)
 
 ![GitHub Chart](https://ghchart.rshah.org/ldm-code)
 
