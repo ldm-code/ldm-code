@@ -40,5 +40,5 @@
 
 ![Snake animation](https://github.com/ldm-code/ldm-code/blob/output/github-snake.svg)
 
-![GitHub Chart](https://ghchart.rshah.org/ldm-code)
+
 
