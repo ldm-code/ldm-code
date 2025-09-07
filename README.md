@@ -9,11 +9,13 @@
 ---
 
 # Onde eu moro 🐍
+
 * Espumoso RS 🐉
 
 ---
 
 # Minha linguagem favorita 🐍
+
 * Python 🐉
 
 ---
@@ -26,6 +28,7 @@
 ---
 
 # Meios para contato
+
 - whatsapp: +55 54 99244-8827
 - email: demoraesleonardo327@gmail.com
 
