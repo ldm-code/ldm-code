@@ -33,4 +33,5 @@
 
 ## Obrigado pela atenção 🐍 🐉
 
-![Snake animation](https://github.com/ldm-code/ldm-code/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ldm-code/ldm-code/blob/output/github-contribution-grid-snake.svg)
+
