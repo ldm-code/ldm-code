@@ -5,7 +5,7 @@
 ## Sobre mim: 🐍
 
 * Me chamo Leonardo, Tenho 19 anos e estou estudando Análise e Desenvolvimento de Sistemas na faculdade Ideau de Passo Fundo 🐉
-* Buscando vagas de estagio em backend python para aprender com experiencia pratica 🐉
+* Buscando vagas de estagio em backend python para obter experiencia pratica 🐉
 
 ---
 
