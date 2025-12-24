@@ -15,9 +15,9 @@ jobs:
           github_user_name: ldm-code
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-          snake_color: "#00AEEF"
-          snake_color_dark: "#00AEEF"
-          color_dots:  "#FFFFFF,#00AEEF,#000000"
+          snake_color: "#FFFFFF,#00AEEF,#000000"
+         
+        
 
             
           outputs: github-snake.svg
