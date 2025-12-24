@@ -16,7 +16,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
           snake_color: "#00AEEF"
-          snake_color_dark: "#000000"
+          snake_color_dark: "#00AEEF"
           color_dots:  "#FFFFFF,#00AEEF,#000000"
 
             
