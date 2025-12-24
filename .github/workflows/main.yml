@@ -17,10 +17,8 @@ jobs:
 
           snake_color: "#00AEEF"
           snake_color_dark: "#000000"
-          color_dots: |
-            #FFFFFF,
-            #00AEEF,
-            #000000
+          color_dots:  "#FFFFFF,#00AEEF,#000000"
+
             
           outputs: github-snake.svg
 
