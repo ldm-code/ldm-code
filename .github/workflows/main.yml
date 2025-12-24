@@ -15,8 +15,12 @@ jobs:
           github_user_name: ldm-code
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-          snake_color: "#FFFFFF,#00AEEF,#000000"
-         
+          snake_color: "#00AEEF" 
+          
+          
+          
+          snake_color_dark: "#00AEEF"  # mesma cor para tema escuro
+          color_dots: "#FFFFFF,#00AEEF,#000000"  # quadradinhos de commits
         
 
             
