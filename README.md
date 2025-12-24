@@ -40,7 +40,7 @@
 ## Obrigado pela atenção 🐍 🐉
 
 ![Snake animation](https://github.com/ldm-code/ldm-code/blob/output/github-snake.svg)
-![Snake animation dark](https://github.com/ldm-code/ldm-code/blob/output/github-snake-dark.svg)
+
 
 
 
