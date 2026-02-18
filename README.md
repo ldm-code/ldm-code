@@ -7,7 +7,6 @@
 
 * Me chamo Leonardo, Tenho 19 anos e estou estudando Análise e Desenvolvimento de Sistemas na faculdade Ideau de Passo Fundo 🐉
 
-
 ---
 
 # Onde eu moro: 🐍
