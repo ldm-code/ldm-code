@@ -1,6 +1,5 @@
 # OLA! 👋 🐍
 
-
 ---
 
 ## Sobre mim: 🐍
