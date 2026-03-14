@@ -3,7 +3,8 @@
 ---
 
 ## Sobre mim: 🐍
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ldm-code&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldm-code&layout=compact)
 * Me chamo Leonardo, Tenho 19 anos e estou estudando Análise e Desenvolvimento de Sistemas na faculdade Ideau de Passo Fundo 🐉
 * Tenho um gosto pessoal por backend e testes de software automatizados 🐉
 
