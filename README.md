@@ -9,7 +9,7 @@
 ## Sobre mim: 🐍
 
 * Me chamo Leonardo, Tenho 19 anos e estou estudando Análise e Desenvolvimento de Sistemas na faculdade Ideau de Passo Fundo 🐉
-* Tenho um gosto pessoal por backend e testes de software automatizados 🐉
+* Tenho interesse por backend e testes de software automatizados 🐉
 
 ---
 
