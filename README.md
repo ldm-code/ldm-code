@@ -10,6 +10,7 @@
 
 * Me chamo Leonardo, Tenho 19 anos e estou estudando Análise e Desenvolvimento de Sistemas na faculdade Ideau de Passo Fundo 🐉
 * Tenho interesse por backend e testes de software automatizados 🐉
+* Atualmente,eu trabalho com testes de software na COTRIEL. 🐉
 
 ---
 
