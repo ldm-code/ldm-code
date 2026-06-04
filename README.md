@@ -6,6 +6,7 @@
 ## Projetos funcionando
 
 - https://teladebloqueioweb.netlify.app/
+- https://contadordepartidasdetruco.netlify.app/
 ---
 ## Sobre mim: 🐍
 
