@@ -1,7 +1,8 @@
 # OLA! 👋 🐍
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ldm-code&layout=donut&theme=dark)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ldm-code&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ldm-code)
 ---
 ## Projetos funcionando
 
