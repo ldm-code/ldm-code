@@ -56,6 +56,7 @@
 - Bibliotecas:
 * ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 * ![JavaFX](https://img.shields.io/badge/JavaFX-1E90FF?style=for-the-badge&logo=java&logoColor=white)
+* ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
