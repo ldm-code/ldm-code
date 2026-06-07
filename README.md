@@ -46,6 +46,8 @@
 * ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 * ![MySQL Connector](https://img.shields.io/badge/MySQL%20Connector-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 * ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+* ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+* ![JavaFX](https://img.shields.io/badge/JavaFX-1E90FF?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -54,8 +56,6 @@
 - Linguagens:
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - Bibliotecas:
-* ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-* ![JavaFX](https://img.shields.io/badge/JavaFX-1E90FF?style=for-the-badge&logo=java&logoColor=white)
 * ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 * ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=python&logoColor=white)
 ---
