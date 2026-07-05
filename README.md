@@ -41,6 +41,7 @@
 # Frameworks e Bibliotecas:
 * ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 * ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+* ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=python&logoColor=white)
 * ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 * ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 * ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
@@ -50,7 +51,6 @@
 * ![JavaFX](https://img.shields.io/badge/JavaFX-1E90FF?style=for-the-badge&logo=java&logoColor=white)
 * ![isort](https://img.shields.io/badge/isort-1674B1?style=for-the-badge&logo=python&logoColor=white)
 * ![black](https://img.shields.io/badge/black-000000?style=for-the-badge&logo=python&logoColor=white)
-* ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
