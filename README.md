@@ -7,6 +7,7 @@
 
 - https://teladebloqueioweb.netlify.app/
 - https://contadordepartidasdetruco.netlify.app/
+- https://cardgitfut.netlify.app/
 ---
 ## Sobre mim: 🐍
 
