@@ -68,7 +68,7 @@
 
 # Meios para contato:
 
-- whatsapp: +55 54 9244-8827
+- whatsapp: +55 54 99148-1904
 - email: demoraesleonardo327@gmail.com
 
 ---
