@@ -42,6 +42,7 @@
 
 # Frameworks e Bibliotecas:
 * ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+* ![Locust](https://img.shields.io/badge/Locust-00A98F?style=for-the-badge&logo=locust&logoColor=white)
 * ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 * ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=python&logoColor=white)
 * ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
