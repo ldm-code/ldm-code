@@ -56,6 +56,7 @@
 * ![isort](https://img.shields.io/badge/isort-1674B1?style=for-the-badge&logo=python&logoColor=white)
 * ![black](https://img.shields.io/badge/black-000000?style=for-the-badge&logo=python&logoColor=white)
 * ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+* ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
 
@@ -63,6 +64,7 @@
 
 - Linguagens:
 * ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+* ![AdvPL](https://img.shields.io/badge/AdvPL-0066CC?style=for-the-badge)
 - Frameworks e Bibliotecas:
 * ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ---
