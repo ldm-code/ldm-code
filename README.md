@@ -52,6 +52,7 @@
 * ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 * ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 * ![JavaFX](https://img.shields.io/badge/JavaFX-1E90FF?style=for-the-badge&logo=java&logoColor=white)
+* ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 * ![isort](https://img.shields.io/badge/isort-1674B1?style=for-the-badge&logo=python&logoColor=white)
 * ![black](https://img.shields.io/badge/black-000000?style=for-the-badge&logo=python&logoColor=white)
 * ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -64,7 +65,6 @@
 * ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - Frameworks e Bibliotecas:
 * ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-* ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
 
 # Meios para contato:
